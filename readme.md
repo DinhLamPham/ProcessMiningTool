@@ -1,13 +1,14 @@
 ##### **INSTRUCTION FOR RUNNING PROCESS MINING TOOL ON JAVA ENVIRONMENT**
 
 [![Process mining system](http://img.youtube.com/vi/Ey9gluLXftI/0.jpg)](http://www.youtube.com/watch?v=Ey9gluLXftI "Process mining system")
-(Click here to watch the video on youtube. http://www.youtube.com/watch?v=Ey9gluLXftI)
+
+(Youtube: http://www.youtube.com/watch?v=Ey9gluLXftI)
 
 **I. System requirements:**
 -	Java JDK 8. Download it from here: https://www.oracle.com/kr/java/technologies/javase/javase-jdk8-downloads.html
 (You will need to register an account to download the package)
 
-II. Setup Java JDK 8 and the environment:
+**II. Setup Java JDK 8 and the environment:**
 1. Microsoft Windows OS
 - Download and install Java 8 on your computer. Remember the Java installed location. You will need it in the next step.
 
@@ -23,11 +24,11 @@ II. Setup Java JDK 8 and the environment:
 
 
 
-**II. Run the tool:**
+**III. Run the tool:**
 Double click to run the file “runtool (MS Windows)” on MS Windows.
 Rrun the file “runtool (Mac OS)” on Mac OS.
 
-**III. Download data set:**
+**IV. Download data set:**
 Large bank transaction: https://data.4tu.nl/articles/dataset/Large_Bank_Transaction_Process/12714395
 
 Review example large: https://data.4tu.nl/articles/dataset/Synthetic_event_logs_-_review_example_large_xes_gz/12716609
