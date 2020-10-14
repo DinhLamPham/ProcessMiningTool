@@ -1,4 +1,6 @@
-###### **INSTRUCTION FOR RUNNING PROCESS MINING TOOL ON JAVA ENVIRONMENT**
+##### **INSTRUCTION FOR RUNNING PROCESS MINING TOOL ON JAVA ENVIRONMENT**
+
+[![Process mining system](http://img.youtube.com/vi/Ey9gluLXftI/0.jpg)](http://www.youtube.com/watch?v=Ey9gluLXftI "Process mining system")
 
 **I. System requirements:**
 -	Java JDK 8. Download it from here: https://www.oracle.com/kr/java/technologies/javase/javase-jdk8-downloads.html
@@ -26,4 +28,5 @@ Rrun the file “runtool (Mac OS)” on Mac OS.
 
 **III. Download data set:**
 Large bank transaction: https://data.4tu.nl/articles/dataset/Large_Bank_Transaction_Process/12714395
+
 Review example large: https://data.4tu.nl/articles/dataset/Synthetic_event_logs_-_review_example_large_xes_gz/12716609
