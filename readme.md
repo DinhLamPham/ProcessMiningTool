@@ -1,6 +1,6 @@
 ##### **INSTRUCTION FOR RUNNING PROCESS MINING TOOL ON JAVA ENVIRONMENT**
 
-[![Process mining system](http://img.youtube.com/vi/Ey9gluLXftI/0.jpg)](http://www.youtube.com/watch?v=Ey9gluLXftI "Process mining system")
+
 
 **I. System requirements:**
 -	Java JDK 8. Download it from here: https://www.oracle.com/kr/java/technologies/javase/javase-jdk8-downloads.html
